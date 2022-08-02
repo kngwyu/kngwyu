@@ -1,4 +1,4 @@
-### Hi :wink:
+### :wink:
 
 I'm a Ph.D. student living in Okinawa :ocean:, a sounthern island in Japan :hibiscus:.
 
