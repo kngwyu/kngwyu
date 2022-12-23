@@ -5,4 +5,4 @@ I'm a Ph.D. student living in Okinawa :ocean:, a sounthern island in Japan :hibi
   - [codeberg](https://codeberg.org/kngwyu)
     - Mainly for Emacs packages, documents, and some private scripts.
   - [gitlab](https://gitlab.com/kngwyu)
-- Twitter (not very active though...): https://twitter.com/kngwyu
+- Mastodon (not very active though...): https://sigmoid.social/@kngwyu
