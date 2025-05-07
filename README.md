@@ -6,4 +6,4 @@ I studied reinforcement learning stuff with some old-school AI fashion, but now 
   - [codeberg](https://codeberg.org/kngwyu)
     - Mainly for Emacs packages, documents, and some private scripts.
   - [gitlab](https://gitlab.com/kngwyu)
-- Mastodon (not very active though...): https://sigmoid.social/@kngwyu
+- [Bluesky](https://bsky.app/profile/kngwyu.bsky.social)
